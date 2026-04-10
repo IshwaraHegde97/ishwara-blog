@@ -1,0 +1,320 @@
+/* ── Reset & Base ─────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --cream:       #FFFDF9;
+  --sand:        #E8E0D4;
+  --sand-light:  #F5F1EB;
+  --sand-wash:   #FAF8F5;
+  --charcoal:    #2C2F33;
+  --slate:       #4A4F54;
+  --slate-light: #6E747A;
+  --warm-gray:   #9B9589;
+  --olive:       #6B7B5E;
+  --olive-dark:  #4A5A3E;
+  --olive-light: #8A9A7C;
+  --terracotta:  #B07D62;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body:    'EB Garamond', Georgia, serif;
+  --font-ui:      'Inter', -apple-system, sans-serif;
+
+  --max-width: 1020px;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: var(--cream);
+  color: var(--charcoal);
+  font-family: var(--font-ui);
+  line-height: 1.65;
+  padding: 0 0 6rem;
+}
+
+/* ── Site header & nav ────────────────────────── */
+.site-header {
+  padding: 0;
+}
+
+.site-header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 0;
+}
+
+.site-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: var(--charcoal);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  margin-bottom: 1rem;
+}
+
+.site-title:hover {
+  color: var(--olive);
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.nav-link {
+  font-family: var(--font-ui);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--warm-gray);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: color 0.15s;
+}
+
+.nav-link:hover,
+.nav-link--active {
+  color: var(--olive);
+}
+
+/* ── Layout ───────────────────────────────────── */
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 0;
+}
+
+/* ── Two-column layout ────────────────────────── */
+.home-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+@media (max-width: 680px) {
+  .home-columns {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+}
+
+/* ── Section label ────────────────────────────── */
+.section-label {
+  font-family: var(--font-ui);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--olive);
+  margin-bottom: 1.25rem;
+}
+
+/* ── Post list (essays) ───────────────────────── */
+.post-list {
+  list-style: none;
+}
+
+.post-item {
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--sand);
+}
+
+.post-item:last-child {
+  border-bottom: 1px solid var(--sand);
+}
+
+.post-title {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  text-decoration: none;
+  margin-bottom: 0.2rem;
+  line-height: 1.3;
+}
+
+.post-title:hover {
+  color: var(--olive);
+}
+
+.post-desc {
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  color: var(--slate-light);
+  line-height: 1.55;
+}
+
+/* ── Sidebar notes list ───────────────────────── */
+.notes-list {
+  list-style: none;
+}
+
+.note-item {
+  padding: 0.55rem 0;
+  border-top: 1px solid var(--sand);
+}
+
+.note-item:last-child {
+  border-bottom: 1px solid var(--sand);
+}
+
+.note-title {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: var(--slate);
+  text-decoration: none;
+  line-height: 1.45;
+}
+
+.note-title:hover {
+  color: var(--olive);
+}
+
+/* ── Single post ──────────────────────────────── */
+.post {
+  max-width: 640px;
+}
+
+.post-header {
+  margin-bottom: 2.5rem;
+}
+
+.back-link {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--warm-gray);
+  text-decoration: none;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.02em;
+}
+
+.back-link:hover {
+  color: var(--olive);
+}
+
+.post-heading {
+  font-family: var(--font-display);
+  font-size: 2.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  color: var(--charcoal);
+  margin-bottom: 0.6rem;
+}
+
+.post-date {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--warm-gray);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ── Post body ────────────────────────────────── */
+.post-body {
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--slate);
+}
+
+.post-body p {
+  margin-bottom: 1.25rem;
+}
+
+.post-body h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  margin: 2.25rem 0 0.75rem;
+}
+
+.post-body h3 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  margin: 1.75rem 0 0.5rem;
+}
+
+.post-body a {
+  color: var(--olive);
+  text-underline-offset: 3px;
+}
+
+.post-body a:hover {
+  color: var(--olive-dark);
+  text-decoration: none;
+}
+
+.post-body em {
+  font-style: italic;
+}
+
+.post-body blockquote {
+  border-left: 2px solid var(--olive-light);
+  padding-left: 1.25rem;
+  color: var(--slate-light);
+  margin: 1.75rem 0;
+  font-style: italic;
+}
+
+.post-body code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.85em;
+  background: var(--sand-light);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  color: var(--olive-dark);
+}
+
+.post-body pre {
+  background: var(--sand-wash);
+  border: 1px solid var(--sand);
+  padding: 1.25rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin-bottom: 1.25rem;
+}
+
+.post-body pre code {
+  background: none;
+  padding: 0;
+  color: var(--charcoal);
+}
+
+.post-body ul,
+.post-body ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.post-body li {
+  margin-bottom: 0.35rem;
+}
+
+/* ── List page ────────────────────────────────── */
+.list-page .list-title {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--charcoal);
+  margin-bottom: 1.5rem;
+}

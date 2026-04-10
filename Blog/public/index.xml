@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ishwara&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Ishwara&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essays, agency, and new advice for team management</title>
+      <link>http://localhost:1313/notes/essays-agency-advice/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/essays-agency-advice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the founder/operator as a model</title>
+      <link>http://localhost:1313/notes/founder-operator/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/founder-operator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories of friendship in corporations</title>
+      <link>http://localhost:1313/notes/friendship-corporations/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/friendship-corporations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How I&#39;ve run major projects</title>
+      <link>http://localhost:1313/posts/how-i-run-major-projects/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/how-i-run-major-projects/</guid>
+      <description>&lt;p&gt;From experience running large projects, I&amp;rsquo;ve developed some personal frameworks that have helped me ship better work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;start-with-the-outcome&#34;&gt;Start with the outcome&lt;/h2&gt;&#xA;&lt;p&gt;Before anything else, be clear about what done looks like. A fuzzy goal produces fuzzy results.&lt;/p&gt;&#xA;&lt;h2 id=&#34;work-backwards&#34;&gt;Work backwards&lt;/h2&gt;&#xA;&lt;p&gt;Once you know the outcome, reverse-engineer the milestones. What must be true one week before launch? One month before?&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-weekly-review&#34;&gt;The weekly review&lt;/h2&gt;&#xA;&lt;p&gt;Every week, ask: what did I ship, what&amp;rsquo;s blocked, and what do I need to decide?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serve as a bottleneck to growing every part</title>
+      <link>http://localhost:1313/notes/serve-as-bottleneck/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/serve-as-bottleneck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ken Chenillard and his behavioral approach</title>
+      <link>http://localhost:1313/notes/behavioral-approach/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/behavioral-approach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Staring into the abyss as a core life skill</title>
+      <link>http://localhost:1313/posts/curiosity-as-core-skill/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/curiosity-as-core-skill/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a kind of discomfort that comes from sitting with hard problems. Most people flee it. The ones who don&amp;rsquo;t — they tend to do interesting things.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From iteration: I model as a lens strategy</title>
+      <link>http://localhost:1313/notes/iteration-model/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/iteration-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why and how to think things on the Internet</title>
+      <link>http://localhost:1313/notes/think-things-internet/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/think-things-internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On two modes of transcendentalism</title>
+      <link>http://localhost:1313/notes/transcendentalism/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/transcendentalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Searching for outliers</title>
+      <link>http://localhost:1313/posts/searching-for-outliers/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/searching-for-outliers/</guid>
+      <description>&lt;p&gt;The best work comes from people who have internalized high standards so deeply that mediocrity feels physically uncomfortable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What I&#39;ve been doing instead of writing</title>
+      <link>http://localhost:1313/notes/instead-of-writing/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/instead-of-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essays on programming I think about a lot</title>
+      <link>http://localhost:1313/notes/essays-on-programming/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/essays-on-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What is a map</title>
+      <link>http://localhost:1313/notes/what-is-a-map/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/what-is-a-map/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Better decisions drive outsized returns</title>
+      <link>http://localhost:1313/notes/decisions-drive-returns/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/decisions-drive-returns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why are gifted child types on great?</title>
+      <link>http://localhost:1313/notes/gifted-child-types/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/gifted-child-types/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Get real, get curious</title>
+      <link>http://localhost:1313/posts/getting-real/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/getting-real/</guid>
+      <description>&lt;p&gt;Curiosity is underrated as a career strategy. The people who win long-term aren&amp;rsquo;t usually the most disciplined — they&amp;rsquo;re the ones who can&amp;rsquo;t stop thinking about the problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>In defense of case studies</title>
+      <link>http://localhost:1313/posts/case-studies/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/case-studies/</guid>
+      <description>&lt;p&gt;Reading case studies is one of the most efficient ways to compress decades of experience into weeks. The key is not just reading — it&amp;rsquo;s actively asking why at every decision point.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Ishwar. I like trying to understand the world, building things that improve it, and talking about it on the Internet.&lt;/p&gt;&#xA;&lt;p&gt;If you like these posts, get more mindful in your inbox.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;The best way to reach me is by email.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

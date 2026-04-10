@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="list-page">
+  <a href="/" class="back-link">← home</a>
+  <h1 class="list-title">{{ .Title }}</h1>
+  <ul class="post-list">
+    {{ range .Pages }}
+    <li class="post-item">
+      <a href="{{ .RelPermalink }}" class="post-title">{{ .Title }}</a>
+      {{ with .Params.description }}
+      <p class="post-desc">{{ . }}</p>
+      {{ else }}
+      <p class="post-desc">{{ .Summary | truncate 120 }}</p>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

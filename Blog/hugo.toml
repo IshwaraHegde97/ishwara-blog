@@ -1,0 +1,8 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Ishwara's Blog"
+
+[params]
+  author = "Ishwara"
+  intro = "I'm Ishwar. I like trying to understand the world, building things that improve it, and talking about it on the Internet."
+  subintro = "If you like these posts, get more mindful in your inbox."

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Ishwara&#39;s Blog</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on Ishwara&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essays, agency, and new advice for team management</title>
+      <link>http://localhost:1313/notes/essays-agency-advice/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/essays-agency-advice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the founder/operator as a model</title>
+      <link>http://localhost:1313/notes/founder-operator/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/founder-operator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories of friendship in corporations</title>
+      <link>http://localhost:1313/notes/friendship-corporations/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/friendship-corporations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serve as a bottleneck to growing every part</title>
+      <link>http://localhost:1313/notes/serve-as-bottleneck/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/serve-as-bottleneck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ken Chenillard and his behavioral approach</title>
+      <link>http://localhost:1313/notes/behavioral-approach/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/behavioral-approach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>From iteration: I model as a lens strategy</title>
+      <link>http://localhost:1313/notes/iteration-model/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/iteration-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why and how to think things on the Internet</title>
+      <link>http://localhost:1313/notes/think-things-internet/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/think-things-internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On two modes of transcendentalism</title>
+      <link>http://localhost:1313/notes/transcendentalism/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/transcendentalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What I&#39;ve been doing instead of writing</title>
+      <link>http://localhost:1313/notes/instead-of-writing/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/instead-of-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essays on programming I think about a lot</title>
+      <link>http://localhost:1313/notes/essays-on-programming/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/essays-on-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What is a map</title>
+      <link>http://localhost:1313/notes/what-is-a-map/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/what-is-a-map/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Better decisions drive outsized returns</title>
+      <link>http://localhost:1313/notes/decisions-drive-returns/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/decisions-drive-returns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why are gifted child types on great?</title>
+      <link>http://localhost:1313/notes/gifted-child-types/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/gifted-child-types/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

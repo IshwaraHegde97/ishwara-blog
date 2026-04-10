@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <a href="/" class="back-link">← home</a>
+    <h1 class="post-heading">{{ .Title }}</h1>
+    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+      {{ .Date.Format "January 2, 2006" }}
+    </time>
+  </header>
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

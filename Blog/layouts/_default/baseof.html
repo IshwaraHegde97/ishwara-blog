@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="/" class="site-title">Ishwara Hegde</a>
+      {{ partial "nav.html" . }}
+    </div>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+</body>
+</html>
